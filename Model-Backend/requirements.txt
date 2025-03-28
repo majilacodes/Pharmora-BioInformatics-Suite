@@ -1,0 +1,15 @@
+flask
+flask-cors
+numpy
+pandas
+rdkit
+py3Dmol
+seaborn
+matplotlib
+scikit-learn
+Pillow
+chembl-webresource-client
+biotite
+transformers
+groq
+requests
