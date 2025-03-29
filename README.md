@@ -4,6 +4,8 @@ Welcome to Pharmora, an all-in-one bioinformatics research platform designed to 
 ## Overview
 Pharmora simplifies the drug discovery process by offering cutting-edge models that enable the analysis, prediction, and screening of drug-like molecules. By leveraging computational techniques, Pharmora helps users optimize lead compounds, predict molecular properties, and explore novel drug candidates, all within a user-friendly interface.
 
+![](https://github.com/majilacodes/Pharmora-BioInformatics-Suite/blob/main/Screenshot%202025-03-29%20at%204.33.49%E2%80%AFPM.png)
+
 ## Key Features and Models
 Pharmora integrates seven specialized models to assist with various aspects of bioinformatics and drug discovery:
 
